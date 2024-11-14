@@ -472,7 +472,7 @@ var cnItems = {
     "Construction Dock": "建造船坞",
     "Stator": "定子",
     "Industrial Storage Container": "工业储物箱",
-    "": "",
+    "Oil Processing": "石油加工",
     "": "",
     "": "",
     "": "",
