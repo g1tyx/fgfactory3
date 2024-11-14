@@ -471,7 +471,7 @@ var cnItems = {
     "Automated Wiring": "自动布线",
     "Construction Dock": "建造船坞",
     "Stator": "定子",
-    "": "",
+    "Industrial Storage Container": "工业储物箱",
     "": "",
     "": "",
     "": "",
