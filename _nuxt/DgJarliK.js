@@ -52383,12 +52383,12 @@ const O0 = rr({
         if (e.length % 4 !== 0) return this.showToast("toastImportCorrupted");
         (this.resetInProgress = !0),
           localStorage.setItem(this.localStorageName, e),
-          window.location.replace("/fgfactory");
+          window.location.replace("/fgfactory3");
       },
       wipeAppState() {
         (this.resetInProgress = !0),
           localStorage.removeItem(this.localStorageName),
-          window.location.replace("/fgfactory");
+          window.location.replace("/fgfactory3");
       },
       startGameLoop() {
         if (this.isAppRunning) return;
@@ -52538,7 +52538,7 @@ const O0 = rr({
           t.loadScenario(n),
             (t.victory = !1),
             e.saveAppState(),
-            window.location.replace("/fgfactory");
+            window.location.replace("/fgfactory3");
         };
       return (n, l) => {
         const a = r4("font-awesome-icon");
